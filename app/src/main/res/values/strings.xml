@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ROS Turtle Controller</string>
+    <string name="publish_switch_text">Publish</string>
+    <string name="topic_text">Topic: %s</string>
+    <string name="current_twist_text">Current twist: linear = %.2f, angular = %.2f</string>
+    <string name="reset_twist_button_text">Reset Twist</string>
+    <string name="turtlebot3_waffle">Waffle</string>
+    <string name="turtlebot3_burger">Burger</string>
+    <string name="turtlesim">Turtlesim</string>
+    <string name="absolute_limits_label_text">Absolute Limits</string>
+    <string name="absolute_limits_text">linear = %.2f, angular = %.2f</string>
+</resources>
